@@ -1,0 +1,12 @@
+[
+	{
+  		"name" : "sasha",
+  		"score" : 100,
+  		"avatarLink" : "link1"
+	},
+	{
+  		"name" : "dima",
+  		"score" : 200,
+  		"avatarLink" : "link2"
+	}
+]
