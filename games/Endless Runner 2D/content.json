@@ -1,12 +1,42 @@
 [
 	{
-  		"name" : "sasha",
-  		"score" : 100,
-  		"avatarLink" : "link1"
+		"name": "Бригадир",
+		"score": 1831,
+		"avatarLink": "man.jpg"
 	},
 	{
-  		"name" : "dima",
-  		"score" : 200,
-  		"avatarLink" : "link2"
+		"name": "Дима Могильный",
+		"score": 1624,
+		"avatarLink": "brawl_safe.jpg"
+	},
+	{
+		"name": "Ксения Андреева",
+		"score": 1735,
+		"avatarLink": "girl.jpg"
+	},
+	{
+		"name": "Спецназ Россия",
+		"score": 1544,
+		"avatarLink": "russia.jpg"
+	},
+	{
+		"name": "Александр Минин",
+		"score": 1623,
+		"avatarLink": "flowers.jpg"
+	},
+	{
+		"name": "Настя Эмочка",
+		"score": 1476,
+		"avatarLink": "brawl_girl.jpg"
+	},
+	{
+		"name": "Геннадий Новичок",
+		"score": 1364,
+		"avatarLink": "anime_girl.jpg"
+	},
+	{
+		"name": "Pro100 MONSTR",
+		"score": 1903,
+		"avatarLink": "brawl_boy.jpg"
 	}
 ]
